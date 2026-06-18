@@ -31,7 +31,7 @@
 ## 📌 About This Project
 
 This project demonstrates a **complete CI/CD pipeline** for a Java SpringBoot application.  
-The application is automatically built using **Jenkins**, containerized using **Docker**,  
+The application is automatically built using **Jenkins**, containerized using **Docker**  
 and deployed on **AWS EC2** cloud infrastructure.
 
 ---
